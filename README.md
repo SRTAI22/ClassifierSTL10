@@ -34,7 +34,7 @@ This project is an image classifier trained on the STL-10 dataset. The model is 
     ```bash
     cd STL10-Image-Classifier
     ```
-3. Install the required packages:
+3. Install the required packages(Visit [Pytorch](https://pytorch.org) for installation guide):
     ```bash
     pip install -r requirements.txt
     ```

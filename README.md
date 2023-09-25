@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an image classifier trained on the STL-10 dataset. The model is capable of identifying various object classes in images. Additionally, the repository includes a Streamlit app that allows users to upload photos and classify them in real-time.
+This project is an image classifier trained on the STL-10 dataset. The model is capable of identifying various object classes in images. Additionally, the repository includes a Streamlit app that allows users to upload photos and classify them in real-time. There is a file with saved parameters if you wish to try it out of the box.
 
 ## Table of Contents
 
